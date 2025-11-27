@@ -27,3 +27,6 @@ Atualmente, atuo como docente, aplicando minha trajetória de aprendizado técni
 ![Static Badge](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emerson-Rocha)](https://github.com/anuraghazra/github-readme-stats)
+
+
