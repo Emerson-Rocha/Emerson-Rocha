@@ -21,5 +21,9 @@ Atualmente, atuo como docente, aplicando minha trajetória de aprendizado técni
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoSize=php)
+![Static Badge](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
+![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
