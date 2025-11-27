@@ -1,5 +1,5 @@
 
-# Oi , sou Emerson Rocha
+# Emerson Rocha
 ### Sobre Mim
 Olá sou desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web e mobile, trabalhado com tecnologias como principais linguagens/frameworks, tais como : JavaScript/TypeScript, React, React Native, NestJS, Node.js, Python, entre outras.  buscando sempre entregar soluções eficientes, escaláveis e com foco na experiência do usuário.
 
